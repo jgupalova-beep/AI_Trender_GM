@@ -1,4 +1,5 @@
-name: AI Digest
+
+  name: AI Digest
 
   on:
     schedule:
